@@ -1,0 +1,62 @@
+{
+  "owner": {
+    "name": "itsys4",
+    "description": "Independent validator",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "",
+      "privacy_policy_url": "",
+      "other": []
+    },
+    "affiliated_accounts": [],
+    "website": "https://github.com/itsys4",
+    "email": "itsys4.testnet@gmail.com",
+    "branding": {
+      "logo": {
+        "png_256": "https://itsys4.github.io/logo_256.png",
+        "png_1024": "",
+        "svg": ""
+      }
+    },
+    "location": {
+      "name": "Germany",
+      "country": "DE",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "keybase": "",
+      "telegram": "",
+      "twitter": "",
+      "github": "itsys4",
+      "youtube": "",
+      "facebook": "",
+      "medium": "",
+      "reddit": "",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "01b7773ecc2c7b984fa90d75b17f01f2bce563499c4d7b102e75361e2a1fad2f40",
+      "description": "Bare metal server",
+      "location": {
+        "name": "Germany",
+        "country": "DE",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}
