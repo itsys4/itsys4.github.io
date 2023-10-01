@@ -47,7 +47,7 @@
   "nodes": [
     {
       "public_key": "01b7773ecc2c7b984fa90d75b17f01f2bce563499c4d7b102e75361e2a1fad2f40",
-      "description": "Bare metal server",
+      "description": "Bare metal server with top specs",
       "location": {
         "name": "Germany",
         "country": "DE",
